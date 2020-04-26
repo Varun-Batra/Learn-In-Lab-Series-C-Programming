@@ -1,6 +1,6 @@
-#Writing and Understanding the C Program
+# Writing and Understanding the C Program
 
-###Pseudo Code
+### Pseudo Code
 
 1.	Start with preprocessor directives.
 2.	Definition of main( ) function.
